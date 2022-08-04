@@ -7,4 +7,10 @@ build a webserver
 
 `brew install virtualbox vagrant`
 
+## create virtual machine
 
+`vagrant up`
+
+## delete virtual machine
+
+`vagrant destroy -f`
