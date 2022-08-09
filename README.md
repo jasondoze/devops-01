@@ -1,4 +1,5 @@
 # devops-01
+
 build a webserver
 
 ## install dependencies
@@ -14,3 +15,15 @@ build a webserver
 ## delete virtual machine
 
 `vagrant destroy -f`
+
+## re-run provision
+
+`vagrant up --provision`
+
+## test webserver
+
+test from shell:
+`curl 192.168.56.10`
+
+test from browser:
+`http://192.168.56.10`
