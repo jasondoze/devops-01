@@ -2,6 +2,8 @@
 
 build a webserver
 
+  provision the infrastructure for a website
+
 ## install dependencies
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -27,3 +29,9 @@ test from shell:
 
 test from browser:
 `http://192.168.56.10`
+
+--- 
+# Deploy website
+deploy a website to a webserver
+
+## Create a webpage
