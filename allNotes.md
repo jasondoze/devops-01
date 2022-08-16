@@ -504,3 +504,5 @@ Draw on paper from my computer to the VM, try to include the ip add of my comp, 
 
 How to get there from my comp, one from curl one from chrome
 
+git commit -s
+
