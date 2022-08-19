@@ -500,9 +500,6 @@ Port numbers identify a particular application or service on a system. An IP add
 get this working correctly and copy it to the right place, nginx restart command
 call it myWebsite, add everything to provision
 
-Draw on paper from my computer to the VM, try to include the ip add of my comp, the ip add of the vm and the port of the website
 
-How to get there from my comp, one from curl one from chrome
-
-git commit -s
+`git commit -s`
 
